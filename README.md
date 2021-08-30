@@ -2,6 +2,8 @@
 
 İlgili dosyalardan istediğinizi dilediğiniz gibi kullanabilirsiniz eğer buraya bir dosya eklemek ister iseniz burası açık bir alandır istediğiniz zaman istediğiniz dosyayı bize iletebilirsiniz biz paylaşımı sizin yerinize yapabiliriz, bunun yanında burada size ait ve yayınlanmasını istemediğiniz kişisel bir dosya yer alıyor ise yine bizimle iletişime geçebilir ve dosyanın 3 gün içinde kaldırılacağından emin olabilirsiniz. Dosyalar ders koduna göre sıralanmıştır, google üzerinden paylaşım yapıldığından ister indirebilirsiniz, ister iseniz direk bakabilir, inceleyebilirsiniz. Sayfa içerik ve link içindeki bilgiler sürekli güncelleşmektedir unutmayınız. İyi günler, iyi paylaşımlar dileriz.
 
+> Dosya göndermek ve şikayet durumları için [iletisim@bilgiotu.com](mailto:iletisim@bilgiotu.com) adresini kullanabilirsiniz ;)
+
 > #### Mühendislik Fakültesi
 
 ##### Ortak
@@ -78,7 +80,6 @@
 *   [Elektrik Makinaları](https://github.com/unisharespecial/)
 
 
-> Dosya göndermek ve şikayet durumları için [iletisim@bilgiotu.com](mailto:iletisim@bilgiotu.com) adresini kullanabilirsiniz ;)
 
 <center>
 
