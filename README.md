@@ -76,7 +76,6 @@
 
 ##### Elektrik Bilgisayar Mühendisliği Yüksek Lisans
 
-*   [EBMYL525 - Computer Graphics](https://github.com/unisharespecial/EBMYL525)
 *   [EBMYL505 – Doğrusal Sistem Teorisi](https://github.com/unisharespecial/EBMYL505)
 *   [EBMYL512 - Nesneye Yönelik Yazılım Mühendisliği](https://github.com/unisharespecial/EBMYL512)
 *   [EBMYL517 - Makine Ogrenmesi](https://github.com/unisharespecial/EBMYL517)
