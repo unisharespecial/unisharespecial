@@ -75,9 +75,9 @@
 
 > #### Gazi Üniversitesi / SMM - Serbest Mühendis Müşavir
 
-*   [Yüksek Gerilim Tekniği](https://github.com/unisharespecial/)
-*   [Güç Sistem Analizi (Elektrik Tesisleri)](https://github.com/unisharespecial/)
-*   [Elektrik Makinaları](https://github.com/unisharespecial/)
+*   [Yüksek Gerilim Tekniği](https://github.com/unisharespecial/SMM)
+*   [Güç Sistem Analizi (Elektrik Tesisleri)](https://github.com/unisharespecial/SMM)
+*   [Elektrik Makinaları](https://github.com/unisharespecial/SMM)
 
 
 
