@@ -42,7 +42,7 @@
 ##### Elektrik Elektronik Mühendisliği
 
 *   [EEM101 - ELEKTRİK-ELEKTRONİK MÜHENDİSLİĞİNE GİRİŞ](https://github.com/unisharespecial/EEM101)
-*   [EEM201 - DEVRE TEORİSİ I](https://github.com/unisharespecial/EEM201-yJZbdg)
+*   [EEM201 - DEVRE TEORİSİ I](https://github.com/unisharespecial/EEM201)
 *   [EEM202 - DEVRE TEORİSİ II](https://github.com/unisharespecial/EEM202)
 *   [EEM211 - SAYISAL MANTIK TASARIMI](https://github.com/unisharespecial/EEM211)
 *   [EEM214 - ELEKTRONİK I](https://github.com/unisharespecial/EEM214)
