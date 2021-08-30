@@ -71,6 +71,13 @@
 *   [EEM491 - BİTİRME PROJESİ I](https://github.com/unisharespecial/EEM491)
 *   [EEM492 - BİTİRME PROJESİ II](https://github.com/unisharespecial/EEM492)
 
+> #### Gazi Üniversitesi / SMM - Serbest Mühendis Müşavir
+
+*   [Yüksek Gerilim Tekniği](https://github.com/unisharespecial/)
+*   [Güç Sistem Analizi (Elektrik Tesisleri)](https://github.com/unisharespecial/)
+*   [Elektrik Makinaları](https://github.com/unisharespecial/)
+
+
 > Dosya göndermek ve şikayet durumları için [iletisim@bilgiotu.com](mailto:iletisim@bilgiotu.com) adresini kullanabilirsiniz ;)
 
 <center>
