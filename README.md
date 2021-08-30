@@ -73,6 +73,18 @@
 *   [EEM491 - BİTİRME PROJESİ I](https://github.com/unisharespecial/EEM491)
 *   [EEM492 - BİTİRME PROJESİ II](https://github.com/unisharespecial/EEM492)
 
+
+##### Elektrik Bilgisayar Mühendisliği Yüksek Lisans
+
+*   [EBMYL525 Computer Graphics](https://github.com/unisharespecial/EBMYL525)
+*   [EBMYL505 – Doğrusal Sistem Teorisi](https://github.com/unisharespecial/EBMYL505)
+*   [EBMYL512 - Nesneye Yönelik Yazılım Mühendisliği](https://github.com/unisharespecial/EBMYL512)
+*   [EBMYL517 - Makine Ogrenmesi](https://github.com/unisharespecial/EBMYL517)
+*   [EBMYL525 - Computer Graphics](https://github.com/unisharespecial/EBMYL525)
+*   [EBMYL526 - Derin Öğrenme](https://github.com/unisharespecial/EBMYL526)
+*   [EBMYL591 - Kontrol Teorisi](https://github.com/unisharespecial/EBMYL591)
+
+
 > #### Gazi Üniversitesi / SMM - Serbest Mühendis Müşavir
 
 *   [Yüksek Gerilim Tekniği](https://github.com/unisharespecial/SMM)
